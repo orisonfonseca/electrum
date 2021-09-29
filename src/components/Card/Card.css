@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+}
+.ant-layout-content {
+    flex: auto;
+    min-height: 0;
+    background-color: slategrey;
+}
+.ant-btn-primary {
+    background-color: slategrey;
+}
